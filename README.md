@@ -1,4 +1,4 @@
-This repository was made to upload the work of the "Sistema de Tiempo Real" subject.
+This repository was made to upload the work of the "Tratamiento Digital de Imagenes" subject.
 
 Members:
 
