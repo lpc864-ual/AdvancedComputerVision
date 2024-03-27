@@ -1,4 +1,4 @@
-This repository was made to upload the work of the "Tratamiento Digital de Imagenes" subject.
+This repository was made to upload the proyect of the "Tratamiento Digital de Imagenes" subject.
 
 Members:
 
